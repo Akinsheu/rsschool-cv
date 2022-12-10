@@ -10,3 +10,11 @@
 ## PERSONAL:
 - Date of Birth: 24.05.1982
 - Nationality: Belarus
+
+## Languages:
+- Eglish A2
+- Russian native
+
+## EDUCATION:
+- Diploma of High Education, Tourism 2004 Belarusian State University of Physical Culture - Minsk, Belarus
+- Level 1, Excellent-pass, 2021 Irata technician no.190601 IRATA - Istanbul, Turkey
